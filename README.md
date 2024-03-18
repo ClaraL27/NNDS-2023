@@ -7,5 +7,5 @@ Repository of the course Neural Networks for Data Science Applications from Mast
 - 1796575_NNDS_2023_Homework.ipynb: colab notebook of my solution of the homework. Final grade: 5/5.
 
 ## Final Homework
-- prove lora.ipynb: to be uploaded.
-- 1796575_NNDS_2023_Final_Homework.ipynb: to be uploaded.
+- prove lora.ipynb: test for the final homework.
+- 1796575_NNDS_2023_Final_Homework.ipynb: colab notebook of my solution of the final homework. Final grade: --/10.
