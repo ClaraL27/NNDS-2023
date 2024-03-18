@@ -1,2 +1,11 @@
 # NNDS-2023
-Repository of the course Neural Networks for Data Science Applications from Master Degree Data Science from Sapienza University, Rome
+Repository of the course Neural Networks for Data Science Applications from Master Degree Data Science from Sapienza University, Rome. AY 2023/2024.
+
+# Repository contents
+
+## HW1
+- 1796575_NNDS_2023_Homework.ipynb: colab notebook of my solution of the homework. Final grade: 5/5.
+
+## Final Homework
+- prove lora.ipynb: to be uploaded.
+- 1796575_NNDS_2023_Final_Homework.ipynb: to be uploaded.
